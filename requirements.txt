@@ -1,4 +1,2 @@
-random
-sqlite3
-telebot
-threading
+gunicorn
+pyTelegramBotAPI
